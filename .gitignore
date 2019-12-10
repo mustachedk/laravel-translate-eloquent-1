@@ -1,7 +1,4 @@
 /vendor
-/.idea
 composer.lock
 Thumbs.db
-coverage.xml
-.phpunit.result.cache
 .env
